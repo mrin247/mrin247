@@ -1,5 +1,12 @@
 # 💫 About Me:
-👋 Hi, I’m Mrinmoy.<br>👀 I’m interested in Development and Analytics...<br>🌱 I’m currently learning Backend & Frontend Web Development.<br>💞️ I’m looking to collaborate with good developers and open-source organizations.<br>👨‍💻 All of my projects are available at https://mrin247.github.io/mrinmoymondal/<br>📝 I regularly write articles on https://medium.com/@mrinmoym247<br>📫 How to reach me mrinmoym247@gmail.com<br>⚡ Fun fact: I also like history sometimes and share my birthday with Alxandar-the-Great.
+- 👋 Hi, I’m Mrinmoy
+- 👀 I’m interested in Development and Analytics...
+- 🌱 I’m currently learning Backend & Frontend Web Development
+- 💞️ I’m looking to collaborate with good developers and open-source organizations
+- 👨‍💻 All of my projects are available at https://mrin247.github.io/mrinmoymondal/
+- 📝 I regularly write articles on https://medium.com/@mrinmoym247
+- 📫 How to reach me mrinmoym247@gmail.com
+- ⚡ Fun fact: I also like history sometimes and share my birthday with Alxandar-the-Great.
 
 
 ## 🌐 Socials:
